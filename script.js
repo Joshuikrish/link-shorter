@@ -39,7 +39,7 @@ createApp({
             {
               headers: {
                 Authorization:
-                  "Bearer a5a836e56d0363ad854372759006390ee7f6cfff",
+                  "Bearer token", // put your token
                 "Content-Type": "application/json",
               },
             }
